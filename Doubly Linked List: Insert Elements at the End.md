@@ -91,4 +91,4 @@ new_linked_list.traverse_list()
 
 ## Result
 
-Thus the program has been successfully executed
+Thus, the program has been successfully executed.
