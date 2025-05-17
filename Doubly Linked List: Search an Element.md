@@ -95,4 +95,4 @@ print(Dllist.search(3))
 
 ## Result
 
-Thus the program has been successfully executed
+Thus, the program has been successfully executed.
